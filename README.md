@@ -3,9 +3,6 @@
 
 
 
-
-
-
 <div align="center">
 
 <table>
@@ -37,23 +34,20 @@
 
   <tr>
     <td align="center" width="50%">
+      <h3>📦 Inventory Management System</h3>
+      📊 React · Node.js · Express · MongoDB<br/>
+      📈 Inventory, stock tracking & role-based management system
+    </td>
+    <td align="center" width="50%">
       <h3>🚀 More Projects Coming</h3>
       💡 Full Stack · AI · Mobile Apps<br/>
       🔥 Continuously building and shipping new ideas
-    </td>
-    <td align="center" width="50%">
     </td>
   </tr>
 
 </table>
 
 </div>
-
-
-
-
-
-
 
 
 
