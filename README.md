@@ -1,3 +1,70 @@
+
+
+
+
+
+
+
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <h3>🏨 Hotel Reservation Form</h3>
+      🍽️ React · Node.js · Express · MongoDB<br/>
+      🏨 Hotel booking, food ordering & admin management system
+    </td>
+    <td align="center" width="50%">
+      <h3>🏠 TripNest</h3>
+      ⚡ Next.js 16 · TypeScript · MongoDB<br/>
+      🌍 Airbnb-inspired travel listing & booking platform
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🛒 Advanced E-Commerce Platform</h3>
+      🛍️ React · Express · MongoDB · JWT<br/>
+      👨‍💼 User, Seller & Admin role-based commerce system
+    </td>
+    <td align="center" width="50%">
+      <h3>📸 The Golden Shutter</h3>
+      📷 React · Node.js · Express · MongoDB<br/>
+      💍 Wedding photography booking & gallery management platform
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="50%">
+      <h3>🚀 More Projects Coming</h3>
+      💡 Full Stack · AI · Mobile Apps<br/>
+      🔥 Continuously building and shipping new ideas
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+
+</table>
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Abhay%20Barman&fontSize=60&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20ML%20Enthusiast&descAlignY=58&descSize=18&fontColor=ffffff&animation=twinkling" width="100%"/>
