@@ -19,23 +19,23 @@ An AI-powered web application that identifies a person by matching an uploaded f
 
 ## Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [System Workflow](#️-system-workflow)
-- [Tech Stack](#️-tech-stack)
-- [Project Structure](#-project-structure)
-- [Face Recognition Process](#-face-recognition-process)
-- [Person Information](#-person-information)
-- [Admin Features](#-admin-features)
-- [User Features](#-user-features)
-- [Security Features](#-security-features)
-- [Future Improvements](#-future-improvements)
-- [Installation](#-installation)
-- [API Endpoints](#-api-endpoints)
-- [Screenshots](#-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [Author](#-author)
+- **Overview**
+- **Features**
+- **System Workflow**
+- **Tech Stack**
+- **Project Structure**
+- **Face Recognition Process**
+- **Person Information**
+- **Admin Features**
+- **User Features**
+- **Security Features**
+- **Future Improvements**
+- **Installation**
+- **API Endpoints**
+- **Screenshots**
+- **Contributing**
+- **License**
+- **Author**
 
 ---
 
