@@ -68,6 +68,13 @@ This project can be used in educational institutions, offices, security systems,
 
 ---
 
+## System Architecture
+
+![Architecture](./docs/images/architecture.png)
+
+
+
+
 ## System Workflow
 
 ```text
