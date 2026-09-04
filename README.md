@@ -34,6 +34,8 @@
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding Animation" />
 
 </div>
+```
+
 
 ## 🙋‍♂️ About Me
 
@@ -57,6 +59,7 @@ const abhay = {
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,html,css,bootstrap,tailwind,react,nextjs,nodejs,express,mongodb,mysql,aws,git,github,vscode,postman,linux,bash,figma&theme=dark" />
 </p>
+
 
 ---
 
@@ -86,7 +89,9 @@ Machine Learning Fundamentals
 
 ---
 
+
 ## 🚀 Current Projects
+
 
 <div align="center">
 
@@ -134,23 +139,38 @@ Machine Learning Fundamentals
 
 </div>
 
+
+
+
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&v=1" width="49%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF"
+  width="49%"
+/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00A7D8&dates=FFFFFF&v=1" width="49%" />
+<img
+  src="https://streak-stats.demolab.com/?user=ABHAYBARMAN067&theme=tokyonight&hide_border=true&background=062B3A&ring=00A7D8&fire=00A7D8&currStreakLabel=FFFFFF&sideNums=FFFFFF&currStreakNum=00A7D8&dates=FFFFFF"
+  width="49%"
+/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&text_color=FFFFFF&v=1" width="42%" />
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYBARMAN067&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&text_color=FFFFFF"
+  width="42%"
+/>
 
 </div>
 
+
+
 ---
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" width="100%" />
@@ -159,21 +179,17 @@ Machine Learning Fundamentals
 ## 🐍 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=github-dark&hide_border=true&bg_color=062B3A&color=00A7D8&line=00A7D8&point=7FD8F5&v=1" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=github-dark&hide_border=true&bg_color=062B3A&color=00A7D8&line=00A7D8&point=7FD8F5" width="100%" />
 </div>
 
-<!--
-If the graph above ever breaks again (shared free-tier instance getting rate-limited),
-swap the domain for this mirror instead:
-https://fabianocouto-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&theme=github-dark&hide_border=true&bg_color=062B3A
 
+<!--
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ABHAYBARMAN067/ABHAYBARMAN067/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 -->
-
 ---
 
 ## 📫 Connect With Me
@@ -185,7 +201,6 @@ https://fabianocouto-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&the
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/abhay-barman-9a0b3a277)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&style=for-the-badge)](https://codepen.io/Abhay-Barman)
 [![Email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&style=for-the-badge&logoColor=white)](mailto:abhaybarman067@gmail.com)
-
 </div>
 
 ---
@@ -195,5 +210,4 @@ https://fabianocouto-activity-graph.vercel.app/graph?username=ABHAYBARMAN067&the
 > **"Build things you love. Break things to learn. Fix things to grow."**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:062B3A,50:004A67,100:00A7D8&height=100&section=footer&animation=twinkling" width="100%"/>
-
 </div>
