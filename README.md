@@ -149,7 +149,7 @@ Machine Learning Fundamentals
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF"
+  src="https://github-readme-stats.vercel.app/api?username=ABHAYBARMAN067&show_icons=true&theme=tokyonight&hide_border=true&bg_color=062B3A&title_color=00A7D8&icon_color=00A7D8&text_color=FFFFFF&cache_seconds=86400"
   width="49%"
 />
 
@@ -166,8 +166,6 @@ Machine Learning Fundamentals
 />
 
 </div>
-
-
 
 ---
 
